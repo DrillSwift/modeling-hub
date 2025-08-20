@@ -1,4 +1,4 @@
-# 🚀 modeling-hub
+# 🚀 Modeling Hub
 
 ## 📖 Overview  
 **Modeling Hub** is a central repository for reusable modeling utilities and workflows.  
@@ -7,10 +7,10 @@ It helps the team keep modeling code consistent, modular, and easy to reuse acro
 ---
 
 ## ✨ Features  
-- 🧩 Reusable modeling components  
-- 📊 Model evaluation methods  
-- 🛠️ Feature engineering for modeling  
-- 📈 Visualization tools for models  
+- 🧩 Reusable components for modeling  
+- 📊 Evaluation & visualization helpers  
+- 🛠️ Preprocessing and feature engineering tools  
+- 🔄 Extensible and team-friendly design  
 
 ---
 
