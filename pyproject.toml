@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "modeling_hub"
+version = "1"
+authors = [{ name = "Mahdi MohammadAliPour"}]
+description = "A hub of reusable modeling utilities for machine learning and AI projects."
+requires-python = ">=3.10"
+
