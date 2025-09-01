@@ -488,8 +488,8 @@ if __name__ == "__main__":
 
     # Separate abnormal categories
     print("\nSeparate runs by category:")
-    print(get_runs(df, time_col="time", cat_col="category", normal_label="Normal", split_by_category=True))
+    print(get_abnormal_runs(df, time_col="time", cat_col="category", normal_label="Normal", split_by_category=True))
 
     # Merge all abnormal categories into 'Not-Normal'
     print("\nAll abnormal merged as 'Not-Normal':")
-    print(get_runs(df, time_col="time", cat_col="category", normal_label="Normal", split_by_category=False))
+    print(get_abnormal_runs(df, time_col="time", cat_col="category", normal_label="Normal", split_by_category=False))
